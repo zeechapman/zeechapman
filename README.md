@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeechapman also known as Zachary A. Chapman
-- 👀 I’m interested in ... Finding a Job in Web Development, Web Development, Programming, Video Games, Metal Music, and more
+- 👀 I’m interested in ... Finding a Job in Web Development, Web Development, Programming, Video Games, and more
 - 🌱 I’m currently learning ... TypeScript, Advanced JavaScript
 - I'm currently ... Going to school, and working side-gig jobs until I can find a job, or graduate, or both. Which ever comes first.
 <!---
